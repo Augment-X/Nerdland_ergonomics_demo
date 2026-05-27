@@ -1,4 +1,3 @@
-# TO DO: Check of er een verschil is met REBA tussen exoskeleton dragen en geen exoskeleton dragen
 import cv2
 import mediapipe as mp
 import numpy as np

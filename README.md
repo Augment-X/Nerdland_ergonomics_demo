@@ -5,7 +5,7 @@ Deze repository bevat het programma voor automatische ergonomische beoordeling v
 
 1. Installeer Python: ga naar https://www.python.org/downloads/ en klik op "Download Python install manager". Dubbelklik op het bestand om Python te installeren.
 2. Download de bestanden uit deze repository: klik rechtsboven op de groene knop "Code" en vervolgens "Download ZIP". Unzip het bestand.
-3. Installeer de benodigde Python packages: navigeer naar de map met "Nerdland_ergonomics_demo.py" in de verkenner en typ in de adresbalk "cmd" en druk op enter (of rechtsklik in de map en klik op "open in terminal". Typ vervolgens "pip install -r requirements.txt" en druk op enter. De packages zouden vanzelf geïnstalleerd moeten worden.
+3. Installeer de benodigde Python packages: navigeer naar de map met "Nerdland_ergonomics_demo.py" in de verkenner en typ in de adresbalk "cmd" en druk op enter (of rechtsklik in de map en klik op "open in terminal"). Typ vervolgens "pip install -r requirements.txt" en druk op enter. De packages zouden vanzelf geïnstalleerd moeten worden.
 4. Start het programma: Typ in dezelfde cmd terminal "python Nerdland_ergonomics_demo.py". Je zal een lijst met camera's te zien krijgen, waaruit je er 1 moet selecteren. Typ het overeenstemmende getal in (0-5) en druk op enter. Het programma zou nu vanzelf moeten opstarten. Druk op esc om het te sluiten. Als de camera niet de gewenste is, probeer het opnieuw met een ander getal.
 
 ## EN
